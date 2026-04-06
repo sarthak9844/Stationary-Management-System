@@ -2,13 +2,13 @@
 
 ## Project Description
 
-The **Stationery Management System** is a web-based application designed to manage stationery items efficiently. It helps in tracking inventory, managing stock, and handling the distribution of stationery items within an organization or institution.
+The **Stationery Management System** is a web-based application designed to manage stationery items efficiently. It helps in tracking inventory, managing stock,issue and handling the distribution of stationery items within an organization or institution.
 
 ---
 
 ## Features
 
-* 📦 Add, update, and delete stationery items
+* 📦 Add, update, isssue,and delete stationery items
 * 📊 Manage stock quantity
 * 🔍 Search and view available items
 * 🧾 Record issue and usage of stationery
@@ -22,7 +22,7 @@ The **Stationery Management System** is a web-based application designed to mana
 * CSS
 * JavaScript
 * PHP
-*Mysql
+* Mysql
 ---
 
 ## 💻 How to Run the Project
@@ -55,7 +55,8 @@ The **Stationery Management System** is a web-based application designed to mana
 
 * More powerful User authentication system
 * Admin dashboard
-* Report generation
+* Online payment integration for purchasing stationery items
+*Billing and invoice generation system
 
 ---
 
