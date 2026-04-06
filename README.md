@@ -56,7 +56,7 @@ The **Stationery Management System** is a web-based application designed to mana
 * More powerful User authentication system
 * Admin dashboard
 * Online payment integration for purchasing stationery items
-*Billing and invoice generation system
+* Billing and invoice generation system
 
 ---
 
